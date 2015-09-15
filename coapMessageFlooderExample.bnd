@@ -1,0 +1,4 @@
+Service-Component:  \
+	*
+Private-Package:  \
+	eu.artemis.demanes.lib.coapServer.clientTest

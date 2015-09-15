@@ -1,0 +1,13 @@
+Bundle-Version: 0.0.0.${tstamp}
+-buildpath:  \
+	${junit},\
+	eu.artemis.demanes.demanesCoreInterface;version=latest,\
+	eu.artemis.demanes.demanesLibInterface;version=latest,\
+	lib/ws4d-jcoap-silent.jar;version=file,\
+	biz.aQute.bnd.annotation,\
+	log4j,\
+	eu.artemis.demanes.impl.communication;version=latest
+Service-Component:  \
+	*
+-sub:  \
+	*.bnd

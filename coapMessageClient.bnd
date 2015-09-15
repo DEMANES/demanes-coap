@@ -1,0 +1,8 @@
+Private-Package:  \
+	eu.artemis.demanes.lib.coap,\
+	eu.artemis.demanes.lib.coap.client,\
+	org.ws4d.coap.interfaces,\
+	org.ws4d.coap.messages
+Service-Component:  \
+	*
+Bundle-Version: 0.2

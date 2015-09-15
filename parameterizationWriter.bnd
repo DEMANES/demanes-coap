@@ -1,0 +1,9 @@
+Service-Component:  \
+	*
+Private-Package:  \
+	eu.artemis.demanes.lib.coapServer.serverTest.parameterization,\
+	org.ws4d.coap.connection,\
+	org.ws4d.coap.interfaces,\
+	org.ws4d.coap.messages,\
+	org.ws4d.coap.rest,\
+	org.ws4d.coap.tools
